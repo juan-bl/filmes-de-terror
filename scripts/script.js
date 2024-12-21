@@ -56,7 +56,6 @@ filmes.forEach(filme => {
           </div>
           <h2>${filme[2]}</h2>
           <p>${filme[3]}</p>
-          <strong>NOTA: ${filme[4]}</strong>
           <br><br>
           <h4>Ficha Tecnica:</h4>
           <p>Lançamento: ${filme[5]}</p>
